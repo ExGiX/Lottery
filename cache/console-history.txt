@@ -1,0 +1,6 @@
+vrfMock
+const vrfMock = await ethers.getContract("VRFCoordinatorV2Mock")
+const test = await ethers.getContract("VRFCoordinatorV2Mock")
+clear
+cls
+const test = await ethers.getContract("VRFCoordinatorV2Mock")
